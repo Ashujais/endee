@@ -1,0 +1,2 @@
+COLLECTION_NAME = "docs"
+MODEL_NAME = "all-MiniLM-L6-v2"
